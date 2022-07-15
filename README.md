@@ -14,6 +14,7 @@ Link: [Java Annotation Crash Course](https://www.youtube.com/watch?v=rRr6gEAVAZk
 First part of the blog series that focuses on app security in android, discusses threats and the safety measures we can take while developing apps with security.
 
 Link: [Root Access and Persistent Data (Part 1)](https://kodesnippets.com/android-security-essentials-1/) 
+
 [Logs, System Screenshots and Backup Theft (Part 2)](https://kodesnippets.com/android-security-essentials-2/)
 
 ### Raycasting in Unity3D/ Wordpress Blog
